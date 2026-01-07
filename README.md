@@ -32,9 +32,9 @@ We compare the VAE-based clustering against a PCA + K-Means baseline using Silho
 2. Train a CNN-VAE (Conv + ConvTranspose)
 3. Extract latent embeddings `z_audio_cnn`
 
-## How to Run (Google Colab)
+
 Open the notebook:
-- **[EDIT HERE: add notebook name]** e.g. `CSE425_VAE_Clustering.ipynb`
+[- **[(https://github.com/tasawar1163/CSE425-VAE-Music-Clustering/blob/main/code)]** e.g. `CSE425_VAE_Clustering.ipynb`]
 
 Run cells in order:
 1. Install dependencies
@@ -61,7 +61,7 @@ Run cells in order:
 **Example plot:**  
 ![VAE UMAP]([results/latent_visualization/[EDIT_IMAGE_NAME]](https://github.com/tasawar1163/CSE425-VAE-Music-Clustering/blob/main/picture.zip).png)
 
-> Replace `[EDIT_IMAGE_NAME].png` with your real image name.
+
 
 
 ## Notes / Limitations
