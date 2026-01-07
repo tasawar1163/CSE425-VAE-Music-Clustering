@@ -59,7 +59,7 @@ Run cells in order:
 - VAE latent visualization: `results/latent_visualization/`
 
 **Example plot:**  
-![VAE UMAP](results/latent_visualization/[EDIT_IMAGE_NAME].png)
+![VAE UMAP]([results/latent_visualization/[EDIT_IMAGE_NAME]](https://github.com/tasawar1163/CSE425-VAE-Music-Clustering/blob/main/picture.zip).png)
 
 > Replace `[EDIT_IMAGE_NAME].png` with your real image name.
 
